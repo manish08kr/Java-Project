@@ -1,2 +1,1 @@
-This is a Console based Java Project
-jsbdhfi ksdjfi
+# This is a Console based Java Project.
