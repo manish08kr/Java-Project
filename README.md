@@ -1,1 +1,1 @@
-# This is a Console based Java Project.
+# Console based Java Project.
