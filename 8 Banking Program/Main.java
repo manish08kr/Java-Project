@@ -70,5 +70,6 @@ public class Main {
         }
         else{
             return amount;
+        }
     }
 }
